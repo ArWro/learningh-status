@@ -1,1 +1,1 @@
-# learningh-status
+25.07 Nauka githuba.
