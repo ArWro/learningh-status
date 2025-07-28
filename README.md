@@ -1,3 +1,3 @@
 25.07   Nauka githuba.
-27.07   Nauka podstawowych pojęć Springa
-	Nauka rzeczy powiązanych ze springiem 
+27.07   fail
+28.07	refleksja, adnotacje
