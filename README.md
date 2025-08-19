@@ -8,3 +8,4 @@
 16.08	Opierdalando
 17.08	Dodawanie zależności
 18.08	@RequestMapping
+19:08	Debugging, application.properties
