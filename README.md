@@ -9,4 +9,4 @@
 17.08	Dodawanie zależności
 18.08	@RequestMapping
 19:08	Debugging, application.properties
-20.08	Open closed principle
+20.08	Open closed principle, IoC Container (storage for our objects)
