@@ -10,3 +10,4 @@
 18.08	@RequestMapping
 19:08	Debugging, application.properties
 20.08	Open closed principle, IoC Container (storage for our objects)
+21.08	leetcode, two sum
