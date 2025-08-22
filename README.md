@@ -11,3 +11,4 @@
 19:08	Debugging, application.properties
 20.08	Open closed principle, IoC Container (storage for our objects)
 21.08	leetcode, two sum
+22.08	leetcode, Best Time to Buy and Sell Stock
