@@ -12,4 +12,4 @@
 20.08	Open closed principle, IoC Container (storage for our objects)
 21.08	leetcode, two sum
 22.08	leetcode, Best Time to Buy and Sell Stock
-26.08	Contains Duplicate, Valid Parentheses
+26.08	Contains Duplicate, Valid Parentheses, Valid Anagram
