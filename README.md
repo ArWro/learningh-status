@@ -15,3 +15,4 @@
 26.08	Contains Duplicate, Valid Parentheses, Valid Anagram
 28.08	Merge Sorted Array
 29.08	Move zeroes
+02.08	MySQL Workbench
