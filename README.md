@@ -17,3 +17,4 @@
 29.08	Move zeroes
 02.08	MySQL Workbench
 04.08	Lombok
+08.08	valid palindrome
