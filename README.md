@@ -5,7 +5,7 @@
 30.07	Wstęp do springa, IoC, dependency injection
 04.08	Beany, @Component, @Autowired, Spring IoC Container
 05.08	Web Service, Rest API, Kontroler, Endpoint
-16.08	Opierdalando
+16.08	Docker
 17.08	Dodawanie zależności
 18.08	@RequestMapping
 19:08	Debugging, application.properties
